@@ -1,4 +1,4 @@
-﻿# VFQC.Node
+﻿# Mocking AWS Services 
 
 ## Guide to how to use this library
 
