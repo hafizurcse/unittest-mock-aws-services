@@ -1,6 +1,6 @@
 ﻿# Mocking AWS Services 
 
-## Guide to how to use this library
+## Library Usage
 
 ### 1. NPM install
 Cd to your project directory and run the following command:
