@@ -11,9 +11,9 @@ npm install
 This will install all necessary packages.
 
 ### 2. Importing a module
-Example: If we want to import `vfCommon` module, then:
+Example: If we want to import `commonFunc` module, then:
 ```
-const vfCommon = require('./../lib/vfCommon');
+const commonFunc = require('./../lib/commonFunc');
 
 ```
 
