@@ -1,5 +1,5 @@
 {
-  "name": "vfqc.node",
+  "name": "node",
   "version": "0.0.0",
   "description": "Mocking in Mocha",
   "main": "app.js",
