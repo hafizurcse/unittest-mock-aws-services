@@ -1,10 +1,10 @@
 {
   "name": "vfqc.node",
   "version": "0.0.0",
-  "description": "VFQC.Node",
+  "description": "Mocking in Mocha",
   "main": "app.js",
   "author": {
-    "name": "David Kearney"
+    "name": "Hafizur Rahman"
   },
   "scripts": {
     "test": "mocha --recursive",
